@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Quanto costa mantenere un'auto? Calcolo dei costi reali</title>
+
+<meta name="description" content="Quanto costa davvero mantenere un'auto ogni anno? Scopri i principali costi di un'automobile e calcola quanto spendi realmente.">
+
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f3f5f7;
+    color: #17202a;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 850px;
+    margin: auto;
+    padding: 30px 18px 60px;
+}
+
+header {
+    background: #17202a;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    margin-bottom: 22px;
+}
+
+header h1 {
+    margin: 0 0 10px;
+    font-size: 36px;
+    line-height: 1.2;
+}
+
+header p {
+    margin: 0;
+    color: #d8dde2;
+}
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 17px;
+    margin-bottom: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.05);
+}
+
+h2 {
+    margin-top: 0;
+}
+
+ul {
+    padding-left: 22px;
+}
+
+.cta {
+    background: #1769e0;
+    color: white;
+    text-align: center;
+}
+
+.cta h2 {
+    margin-bottom: 10px;
+}
+
+.cta a {
+    display: inline-block;
+    margin-top: 12px;
+    background: white;
+    color: #1769e0;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 14px 22px;
+    border-radius: 10px;
+}
+
+.small {
+    color: #68737d;
+    font-size: 14px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<header>
+
+<h1>Quanto costa mantenere un'auto?</h1>
+
+<p>
+Il prezzo dell'auto è solo una parte della spesa.
+Scopri quali sono i costi reali di un'automobile durante l'anno.
+</p>
+
+</header>
+
+
+<div class="card">
+
+<h2>🚗 Quanto costa davvero un'auto?</h2>
+
+<p>
+Quando si pensa al costo di un'automobile si considera spesso
+soltanto il carburante. In realtà mantenere un'auto comporta
+diverse spese, alcune evidenti e altre che vengono facilmente
+dimenticate.
+</p>
+
+<p>
+Per capire quanto costa realmente la propria automobile bisogna
+considerare almeno:
+</p>
+
+<ul>
+
+<li>carburante o energia</li>
+
+<li>assicurazione</li>
+
+<li>bollo</li>
+
+<li>manutenzione ordinaria</li>
+
+<li>pneumatici</li>
+
+<li>riparazioni</li>
+
+<li>svalutazione dell'auto</li>
+
+</ul>
+
+</div>
+
+
+<div class="card">
+
+<h2>⛽ Il costo del carburante</h2>
+
+<p>
+Il carburante è una delle spese più semplici da calcolare.
+Dipende principalmente dai chilometri percorsi, dal consumo
+dell'auto e dal prezzo del carburante.
+</p>
+
+<p>
+Ad esempio, un'auto che percorre 15.000 km all'anno e consuma
+6 litri ogni 100 km utilizza circa 900 litri di carburante
+ogni anno.
+</p>
+
+<p>
+Con un prezzo di 1,80 € al litro, il solo carburante costerebbe
+circa 1.620 € all'anno.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🛡️ Assicurazione e bollo</h2>
+
+<p>
+Assicurazione e bollo sono costi ricorrenti che spesso vengono
+considerati separatamente dal costo dell'auto.
+</p>
+
+<p>
+L'assicurazione può variare molto in base al conducente,
+alla provincia, alla classe di merito, al veicolo e alle
+garanzie scelte.
+</p>
+
+<p>
+Il bollo dipende invece principalmente dalla potenza e dalle
+caratteristiche del veicolo e dalle regole della propria regione.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>🔧 Manutenzione e riparazioni</h2>
+
+<p>
+Tagliandi, freni, batterie, pneumatici e piccoli interventi
+possono rappresentare una spesa importante nel corso degli anni.
+</p>
+
+<p>
+Inoltre, con l'aumentare dell'età e dei chilometri del veicolo,
+può diventare più difficile prevedere il costo delle riparazioni.
+</p>
+
+</div>
+
+
+<div class="card">
+
+<h2>📉 La svalutazione: il costo che molti dimenticano</h2>
+
+<p>
+Un'auto perde generalmente valore nel tempo. Questa perdita
+di valore rappresenta un costo economico anche se non viene
+pagata direttamente ogni mese.
+</p>
+
+<p>
+Per esempio, acquistare un'auto a 22.000 € e venderla dopo
+cinque anni a 11.000 € significa avere avuto una perdita di
+valore di circa 11.000 €, pari a circa 2.200 € all'anno.
+</p>
+
+</div>
+
+
+<div class="card cta">
+
+<h2>Vuoi sapere quanto costa la tua auto?</h2>
+
+<p>
+Inserisci i tuoi dati nel nostro calcolatore gratuito e confronta
+il costo della tua auto con quello di una nuova.
+</p>
+
+<a href="https://mariob9911.github.io/conviene-cambiare-auto/">
+Calcola il costo della mia auto →
+</a>
+
+</div>
+
+
+<div class="card">
+
+<h2>Conviene cambiare auto?</h2>
+
+<p>
+Cambiare automobile non significa necessariamente spendere meno.
+Una vettura più nuova può avere consumi e manutenzione inferiori,
+ma bisogna considerare anche il prezzo di acquisto e la sua
+svalutazione.
+</p>
+
+<p>
+Per questo è utile confrontare il costo complessivo delle due
+alternative invece di guardare solamente al prezzo del carburante.
+</p>
+
+<p>
+Il nostro calcolatore permette di effettuare questo confronto
+in pochi secondi.
+</p>
+
+</div>
+
+
+<p class="small">
+Le informazioni presenti in questa pagina hanno carattere
+indicativo e non costituiscono consulenza finanziaria o fiscale.
+</p>
+
+</div>
+
+</body>
+</html>
